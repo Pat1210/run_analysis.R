@@ -3,6 +3,12 @@ Idetifiers
 .subject -integer
 . 1-30
 .activity-string-The type of activity that they were performing
+Walking
+Walking Upstairs
+Walking Downstairs
+Sitting
+Standing
+Laying
 Measurements
 All of the mean valuse corresponding measurement and also all of the data type numeric.
 > featureNames <- read.table("UCI HAR Dataset/features.txt")
